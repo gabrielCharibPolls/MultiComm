@@ -36,7 +36,7 @@ Pour utiliser MultiComm, suivez les étapes ci-dessous:
 
 *Ci-dessous, un aperçu graphique des performances ou de l'architecture de MultiComm:*
 
-![Analyse de MultiComm](https://github.com/gabrielCharibPolls/MultiComm/img/Create%20Screenshot%202023-11-11%20at%2017.05.45.png)
+![Analyse de MultiComm](https://github.com/gabrielCharibPolls/MultiComm/blob/main/img/Screenshot%202023-11-11%20at%2017.05.45.png)
 
 ---
 
