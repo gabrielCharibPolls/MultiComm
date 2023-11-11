@@ -18,7 +18,7 @@ MultiComm est une solution robuste et efficace pour la communication en temps r�
 
 Pour utiliser MultiComm, suivez les étapes ci-dessous:
 
-1. **Cloner le Répertoire**: `git clone https://github.com/votre-username/MultiComm.git`
+1. **Cloner le Répertoire**: `git clone https://github.com/gabrielCharibPolls/MultiComm.git`
 2. **Compiler le Code**: Utilisez `javac` pour compiler les fichiers `.java`.
 3. **Exécuter le Serveur**: Lancez `java Server` pour démarrer le serveur.
 4. **Exécuter les Clients**: Lancez `java Client` dans différents terminaux pour chaque client.
@@ -34,9 +34,9 @@ Pour utiliser MultiComm, suivez les étapes ci-dessous:
 
 ## Analyse
 
-*Ci-dessous, vous pouvez intégrer des images ou des graphiques pour analyser les performances, l'architecture, ou d'autres aspects pertinents de MultiComm.*
+*Ci-dessous, un aperçu graphique des performances ou de l'architecture de MultiComm:*
 
-![Insérer Image d'Analyse Ici]
+![Analyse de MultiComm](https://github.com/gabrielCharibPolls/MultiComm/img/Create%20Screenshot%202023-11-11%20at%2017.05.45.png)
 
 ---
 
@@ -56,13 +56,5 @@ Les contributions à ce projet sont les bienvenues. Veuillez suivre les étapes 
 ## Licence
 
 Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
-
----
-
-## Contact
-
-Votre Nom - email@example.com
-
-Lien du Projet: [https://github.com/votre-username/MultiComm](https://github.com/votre-username/MultiComm)
 
 ---
