@@ -44,7 +44,7 @@ public class Server {
 
     public void removeClient(ServerThread clienThread){
         clients.remove(clienThread);
-        System.out.println("Client disconnected: " + clientThread.getClientSocket().getInetAddress().getHostAddress());
+        //System.out.println("Client disconnected: " + clientThread.getClientSocket().getInetAddress().getHostAddress());
     }
 
 
