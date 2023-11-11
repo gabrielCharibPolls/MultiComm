@@ -1,6 +1,7 @@
 public class ClientCustom extends Client {
-    @Override
-    public void logic() {
-        // Custom client logic
+    public ClientCustom(String host, int port) {
+        super(host, port);
+        //TODO Auto-generated constructor stub
     }
+
 }

@@ -16,6 +16,8 @@ public class ServerThread extends Thread {
         this.server = server;
     }
 
+
+
     public void run() {
         try{
             InputStream Input = clientSocket.getInputStream();
